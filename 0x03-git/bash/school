@@ -1,7 +1,5 @@
 echo "School"
-<<<<<<< HEAD
 [echo "The school is open!"]
-=======
 [echo "The schoo is open!"]
->>>>>>> master
+
 
